@@ -3,9 +3,12 @@
 #### Dataset: 
 >NIH Chest X-Ray-14 dataset 
 (https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
+>![avatar](5.png) 
 #### Referance: 
->[1]CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning  
+>[1]CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning
+>![avatar](6.png) 
 [2]Residual Attention Network for Image Classification
+>![avatar](7.png) 
 #### Description:
 >[1]basic_layers:Implement residual block  
 [2]attention_module: Implement Attention_56 and Attention_92 (consist of residual blocks and attention blocks)  
@@ -18,3 +21,7 @@ Structure of each attention block:
 Structure of Attention_56 and Attention_92:  
 >![avatar](13.png)  
 >![avatar](14.png) 
+>![avatar](23.png) 
+#### Result:  
+>![avatar](26.png)
+
