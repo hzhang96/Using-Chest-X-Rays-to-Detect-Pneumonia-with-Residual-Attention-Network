@@ -5,9 +5,9 @@
 (https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
 >![avatar](5.png) 
 #### Referance: 
->[1]CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning
+>[1]CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning  
 >![avatar](6.png) 
-[2]Residual Attention Network for Image Classification
+[2]Residual Attention Network for Image Classification  
 >![avatar](7.png) 
 #### Description:
 >[1]basic_layers:Implement residual block  
