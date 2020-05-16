@@ -11,6 +11,10 @@
 [2]attention_module: Implement Attention_56 and Attention_92 (consist of residual blocks and attention blocks)  
 [3]residual_attention_network: Implement attention block  
 #### Structure:
+Structure of each attention block:  
 >![avatar](17.png)  
 >![avatar](19.png)  
 >![avatar](21.png)  
+Structure of Attention_56 and Attention_92:  
+>![avatar](13.png)  
+>![avatar](14.png) 
